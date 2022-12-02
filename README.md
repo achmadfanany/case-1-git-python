@@ -2,4 +2,4 @@
 
 - ini adalah sarana belajar git pertama
 - disini terdapat file notebook untuk melakukan suatu proses
--
+
